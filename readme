@@ -1,0 +1,1 @@
+Este código cria uma página de login simples com campos de entrada de usuário e senha, um botão de login e uma mensagem de erro. O Javascript valida os campos de entrada e exibe mensagens de erro se o usuário não preencher corretamente. Se o usuário inserir o nome de usuário e a senha corretos, o código redireciona o usuário para
